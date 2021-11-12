@@ -26,3 +26,15 @@ https://github.com/AlexeyAB/darknet
 ![image](https://user-images.githubusercontent.com/31372472/141397195-1e357c6d-c3a5-45b3-840c-04752afe6653.png)
 
 ![image](https://user-images.githubusercontent.com/31372472/141397276-c6ce8180-c9ad-48b0-956d-004c608c7b91.png)
+
+![image](https://user-images.githubusercontent.com/31372472/141399386-276f50a7-b8b0-4118-9f4e-18bfa31f8864.png)
+
+![image](https://user-images.githubusercontent.com/31372472/141399835-ca6f90e8-8a8d-455f-9837-42ad5e769aa3.png)
+
+
+![image](https://user-images.githubusercontent.com/31372472/141408394-578316a2-f88e-4ac6-9d68-aaf134e28c8a.png)
+
+![image](https://user-images.githubusercontent.com/31372472/141408341-3fe536c9-6d12-4a8e-b75c-9d30a1be91de.png)
+
+![image](https://user-images.githubusercontent.com/31372472/141408462-d7a660a0-6c39-45f1-a43c-6a4b18e13886.png)
+
