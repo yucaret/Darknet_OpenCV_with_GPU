@@ -36,5 +36,7 @@ https://github.com/AlexeyAB/darknet
 
 ![image](https://user-images.githubusercontent.com/31372472/141408341-3fe536c9-6d12-4a8e-b75c-9d30a1be91de.png)
 
+![image](https://user-images.githubusercontent.com/31372472/141408766-d244599f-7b9b-4a06-ae89-74ac63589501.png)
+
 ![image](https://user-images.githubusercontent.com/31372472/141408462-d7a660a0-6c39-45f1-a43c-6a4b18e13886.png)
 
